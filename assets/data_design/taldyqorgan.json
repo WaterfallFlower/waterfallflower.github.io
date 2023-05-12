@@ -1,0 +1,98 @@
+{
+  "name": "",
+  "thumbnail": "taldyqorgan/logo.png",
+
+  "mainColor": "FF000000",
+  "textColor": "FFFFFFFF",
+  "buttonColor": "FF2D5845",
+
+  "content": [
+    {
+      "type": 0,
+      "label": "Логотип:\nТалдыкорган",
+      "label_size": 56,
+      "font_family": "PlayfairDisplay",
+      "mainColor": "FF2D5845",
+      "textColor": "FFFFFFFF",
+      "horizontalOtstup": 0,
+      "verticalOtstup": 56
+    },
+    {
+      "type": 1,
+      "roundCorners": true,
+      "maxHeight": 512,
+      "image": "taldyqorgan/logo.png",
+      "mainColor": "FF2D5845"
+    },
+
+    {
+      "type": 0,
+      "label": "Студия Ishim Design предоставляет новый логотип для Талдыкоргана!",
+      "label_size": 36,
+      "font_family": "PlayfairDisplay",
+      "mainColor": "FF1a372a",
+      "textColor": "FFFFFFFF",
+      "horizontalOtstup": 24,
+      "verticalOtstup": 56
+    },
+
+    {
+      "type": 3,
+      "mainColor": "FF2D5845",
+      "maxHeight": 512,
+      "image": "taldyqorgan/mockup3.png"
+    },
+
+
+    {
+      "type": 0,
+      "label": "Талдыкорган - прекрасное место в долине казахских степей. Имменно здесь можно наблюдать одну из самых активных исторических течении казахов, близ таких крупных исторических артефактов и построек. Именно в этом районе можно увидеть одно из великих объектов наследия ЮНЕСКО - Петроглифы Тамгалы.",
+      "label_size": 30,
+      "font_family": "PlayfairDisplay",
+      "mainColor": "FF2D5845",
+      "textColor": "FFFFFFFF",
+      "horizontalOtstup": 24,
+      "verticalOtstup": 56
+    },
+
+    {
+      "type": 3,
+      "mainColor": "FF2D5845",
+      "maxHeight": 512,
+      "image": "taldyqorgan/history0.jpg"
+    },
+
+    {
+      "type": 0,
+      "label": "Дизайн логотипа был сильно вдохновлен именно самым известным петроглифом на этих долинах - человека с кучей глаз, символизирующее мировоззрение древних представителей цивилизации на этом месте.\n\nНа данный момент принят государственными органами!",
+      "label_size": 30,
+      "font_family": "PlayfairDisplay",
+      "mainColor": "FF2D5845",
+      "textColor": "FFFFFFFF",
+      "horizontalOtstup": 24,
+      "verticalOtstup": 56
+    },
+
+    {
+      "type": 2,
+      "mainColor": "FF2D5845",
+      "maxHeight": 512,
+      "images": [
+        "taldyqorgan/mockup0.jpg",
+        "taldyqorgan/mockup1.jpg",
+        "taldyqorgan/mockup2.png"
+      ]
+    },
+
+    {
+      "type": 0,
+      "label": "\n\n\nДизайн и сайт были разработаны участниками Ishim Design.\nАстана, 2023 год.",
+      "label_size": 30,
+      "font_family": "PlayfairDisplay",
+      "mainColor": "FF000000",
+      "textColor": "FFFFFFFF",
+      "horizontalOtstup": 24,
+      "verticalOtstup": 56
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Алатауский Район",
+  "thumbnail": "design_1.png",
+
+  "mainColor": "FF000000",
+  "textColor": "FFFFFFFF",
+  "buttonColor": "FF7280FF",
+  "content": [
+    {
+      "type": 0,
+      "label": "Логотип:\nАлатау",
+      "label_size": 56,
+      "font_family": "PlayfairDisplay",
+      "mainColor": "FF7280FF",
+      "textColor": "FFFFFFFF",
+      "horizontalOtstup": 0,
+      "verticalOtstup": 56
+    },
+    {
+      "type": 1,
+      "roundCorners": true,
+      "maxHeight": 512,
+      "image": "design_1.png",
+      "mainColor": "FF7280FF"
+    },
+    {
+      "type": 0,
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam blandit massa nisl, sed blandit felis suscipit at. Suspendisse ultricies, metus vitae maximus ornare, sapien eros tincidunt magna, in ultrices risus neque vel felis. Sed accumsan ligula non justo aliquet vehicula. Etiam varius nulla porta interdum ultricies. Duis et ultrices tortor, a tempus massa. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer id lacus metus. Aliquam ligula quam, maximus ac quam sed, volutpat scelerisque risus. Sed pretium turpis magna, quis congue ex suscipit in. Pellentesque lacinia orci non orci posuere pharetra non vel nibh. ",
+      "label_size": 24,
+      "font_family": "PlayfairDisplay",
+      "mainColor": "FF000000",
+      "textColor": "FFFFFFFF",
+      "horizontalOtstup": 128,
+      "verticalOtstup": 24
+    },
+    {
+      "type": 2,
+      "mainColor": "FF7280FF",
+      "maxHeight": 512,
+      "images": [
+        "scroll_example1.png",
+        "scroll_example2.png",
+        "scroll_example3.png"
+      ]
+    },
+    {
+      "type": 0,
+      "label": "Это самый круток мелкий абзац который я когда-то видел в жизни! Давайте здесь мы соберем целую группу и устроим чаепитие, именно в этом абзаце!",
+      "label_size": 24,
+      "font_family": "PlayfairDisplay",
+      "mainColor": "FF7280FF",
+      "textColor": "FFFFFFFF",
+      "horizontalOtstup": 24,
+      "verticalOtstup": 56
+    },
+    {
+      "type": 3,
+      "mainColor": "FF7280FF",
+      "maxHeight": 512,
+      "image": "scroll_example1.png"
+    },
+    {
+      "type": 4,
+      "mainColor": "FF7280FF",
+
+      "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam blandit massa nisl, sed blandit felis suscipit at.",
+      "label_size": 24,
+      "font_family": "PlayfairDisplay",
+      "textColor": "FFFFFFFF",
+      "horizontalOtstup": 32,
+      "verticalOtstup": 24,
+      "maxHeight": 512,
+      "image": "scroll_example1.png"
+    }
+  ]
+}

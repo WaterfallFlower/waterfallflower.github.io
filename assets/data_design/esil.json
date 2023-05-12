@@ -1,0 +1,108 @@
+{
+  "name": "",
+  "thumbnail": "esil/logo.png",
+
+  "mainColor": "FF000000",
+  "textColor": "FFFFFFFF",
+  "buttonColor": "FF92B8C7",
+
+  "content": [
+    {
+      "type": 0,
+      "label": "Логотип района:\nЕсильский Район, г. Астана",
+      "label_size": 56,
+      "font_family": "PlayfairDisplay",
+      "mainColor": "FFFFFFFF",
+      "textColor": "FF000000",
+      "horizontalOtstup": 0,
+      "verticalOtstup": 56
+    },
+    {
+      "type": 1,
+      "roundCorners": true,
+      "maxHeight": 512,
+      "image": "esil/logo.png",
+      "mainColor": "FFFFFFFF"
+    },
+
+    {
+      "type": 0,
+      "label": "Студия Ishim Design демонстрирует новый логотип для Есильского Района!",
+      "label_size": 36,
+      "font_family": "PlayfairDisplay",
+      "mainColor": "FF3a5c69",
+      "textColor": "FFFFFFFF",
+      "horizontalOtstup": 0,
+      "verticalOtstup": 56
+    },
+
+    {
+      "type": 0,
+      "label": "Есильский район - это уникальный район с многочисленными административными и жилыми постройками, с прекрасной инфраструктурой и продуманными местами для отдыха, в связи с чем, такому району требуется свой уникальный логотип.",
+      "label_size": 30,
+      "font_family": "PlayfairDisplay",
+      "mainColor": "FF3a5c69",
+      "textColor": "FFFFFFFF",
+      "horizontalOtstup": 24,
+      "verticalOtstup": 56
+    },
+
+    {
+      "type": 3,
+      "mainColor": "FF3a5c69",
+      "maxHeight": 512,
+      "image": "esil/mockup0.jpg"
+    },
+
+    {
+      "type": 0,
+      "label": "Логотип «Esil Aydany» отражает благополучие и утонченность района Есиль. Зеленые и голубые тона символизируют озелененные территории района, а также чистоту и порядок.\n\nБлагородная символика демонстрирует спокойную и устойчивую обстановку в данном районе.",
+      "label_size": 30,
+      "font_family": "PlayfairDisplay",
+      "mainColor": "FF3a5c69",
+      "textColor": "FFFFFFFF",
+      "horizontalOtstup": 24,
+      "verticalOtstup": 56
+    },
+
+
+    {
+      "type": 3,
+      "mainColor": "FF3a5c69",
+      "maxHeight": 512,
+      "image": "esil/mockup2.png"
+    },
+
+    {
+      "type": 0,
+      "label": "Ishim design планируют представить данный логотип акиму Есильского района и в дальнейшем увидеть его в качестве официальной городской районной символики.\n\nНа данный момент принята акиматом района!",
+      "label_size": 30,
+      "font_family": "PlayfairDisplay",
+      "mainColor": "FF3a5c69",
+      "textColor": "FFFFFFFF",
+      "horizontalOtstup": 24,
+      "verticalOtstup": 56
+    },
+
+    {
+      "type": 2,
+      "mainColor": "FF3a5c69",
+      "maxHeight": 512,
+      "images": [
+        "esil/mockup1.png",
+        "esil/mockup3.png"
+      ]
+    },
+
+    {
+      "type": 0,
+      "label": "\n\n\nДизайн и сайт были разработаны участниками Ishim Design.\nАстана, 2023 год.",
+      "label_size": 30,
+      "font_family": "PlayfairDisplay",
+      "mainColor": "FF000000",
+      "textColor": "FFFFFFFF",
+      "horizontalOtstup": 24,
+      "verticalOtstup": 56
+    }
+  ]
+}
